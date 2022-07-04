@@ -16,5 +16,5 @@ def mult_list(lst):
     
 print(mult_list([1,2,3]))
 print(mult_list([3,2,1]))
-print(mult_list([9]))
+print(mult_list([]))
 print(mult_list([3,3,2]))
